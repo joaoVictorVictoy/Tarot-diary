@@ -2,7 +2,7 @@
 <h1 align="center">
 Tarot Diario<br/><br/>
 
-<img width="1000p heigth ="250px" src="./src/assets/bg-card-2.jpg"> 
+<img width="1000px height ="250px" src="./src/assets/bg-card-2.jpg"> 
 </h1>
 
 

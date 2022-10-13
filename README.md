@@ -1,8 +1,9 @@
 
 <h1 align="center">
-Tarot Diario<br/><br/>
+Tarot Diario<br/>
 
-<img width="1000px" height ="250px" src="./src/assets/bg-card-2.jpg"> 
+<img width="1000" height="300" src="https://user-images.githubusercontent.com/104728673/195674575-553b3c01-dc69-4fd4-9edb-30cee9c4a13a.jpg"/>
+  
 </h1>
 
 

@@ -20,8 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O projeto teve como objetivo chegar bem próximo de tarot, onde consiste em clicar em uma carta e ela aparecer o significado da carta selecionada. 
 
-## Deploy realizado com Vercel
-### [Link do Deploy](tarot-diary.surge.sh)
+## Deploy em Vercel
+### [Clique aqui](https://tarot-diary.vercel.app/)
 
 ## 🖼️ Imagens
  HomePage | Seleção de cartas | Detalhes |

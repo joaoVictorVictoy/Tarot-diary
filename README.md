@@ -1,6 +1,5 @@
 
 <h1 align="center">
-Tarot Diario<br/>
 
 <img width="1000" height="300" src="https://user-images.githubusercontent.com/104728673/195674575-553b3c01-dc69-4fd4-9edb-30cee9c4a13a.jpg"/>
   
@@ -21,7 +20,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O projeto teve como objetivo chegar bem próximo de tarot, onde consiste em clicar em uma carta e ela aparecer o significado da carta selecionada. 
 
-## [Link do Deploy](tarot-diary.surge.sh)
+## Deploy realizado com Vercel
+### [Link do Deploy](tarot-diary.surge.sh)
+
+## 🖼️ Imagens
+ HomePage | Seleção de cartas | Detalhes |
+|---|---|---|
+![HomePage](https://user-images.githubusercontent.com/104728673/195681584-ef26b8a8-4b23-48d5-a7ad-d9465c8b47b9.png) | ![Seleção](https://user-images.githubusercontent.com/104728673/195681859-dddd950f-0169-4413-904b-bd43e3ad059c.png) | ![Detalhes](https://user-images.githubusercontent.com/104728673/195682073-1c7a08e9-5f26-4072-b531-9266855d9495.png)
+## GIF
+ Web | Mobile |
+|---|---|
+![tarot-diary](https://user-images.githubusercontent.com/104728673/195689135-23d29f76-0200-455d-9b83-d595d4a3ba88.gif) |![tarot-diary-mobile](https://user-images.githubusercontent.com/104728673/195689337-c82123c3-c7c4-490a-9fc6-bb1569b568e5.gif)
+
+
+
+
+
 ## 💻 Instalação
 
 1. Faça o dowload e extração do projeto;
